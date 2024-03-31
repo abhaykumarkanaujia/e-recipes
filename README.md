@@ -1,7 +1,7 @@
 
 # E-Recipe
 
-Created By [https://github.com/abhaykumarkanaujia]
+Created By [Abhay Kumar Kanaujia](https://github.com/abhaykumarkanaujia)
 
 ![Screenshot 2024-04-01 001909](https://github.com/abhaykumarkanaujia/e-recipes/assets/71314794/eabf631b-08cc-4278-bb46-f94bd6200c1b)
 
@@ -11,7 +11,7 @@ Created By [https://github.com/abhaykumarkanaujia]
 
 # API Used
 
-EDAMAM API [https://developer.edamam.com/edamam-recipe-api]
+[EDAMAM API](https://developer.edamam.com/edamam-recipe-api)
 
 
 # Getting Started with Create React App
