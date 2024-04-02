@@ -24,11 +24,11 @@ The application features a user-friendly interface where users can input ingredi
 
     ->Integration with the Edamam API for fetching recipe data.
     ->Search functionality to find recipes based on user input.
-    ->Display of recipe results with essential information like title, ingredients, and cooking instructions.
+    ->Display of recipe results with essential information like title and ingredients.
     ->Responsive design for optimal viewing across various devices.
     ->Navbar component for easy navigation within the application.
 
-# Usage:
+# How to Use:
 
     ->Clone the repository to your local machine.
     ->Install dependencies using `npm install`.
