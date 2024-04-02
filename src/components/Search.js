@@ -5,7 +5,7 @@ import RecipeContext from '../context/recipes/RecipeContext';
 const Search = () => {
     const context = useContext(RecipeContext);
     const [query, setquery] = useState("Mango");
-    const { getQueries } = context;
+    const { getQueries, setLoading } = context;
     // eslint-disable-next-line
     const getRecipes = async () => {
         await getQueries(query);
@@ -13,6 +13,7 @@ const Search = () => {
 
     const OnClick = (e) => {
         e.preventDefault();
+        setLoading(true);
         getRecipes();
     }
 
