@@ -17,8 +17,8 @@ Created By [Abhay Kumar Kanaujia](https://github.com/abhaykumarkanaujia)
 
 # Description
 
-    This repository contains the frontend code for a web application built with React.js that allows users to search for food recipes using the Edamam API.
-    The application features a user-friendly interface where users can input ingredients or dish names and receive a list of relevant recipes.
+This repository contains the frontend code for a web application built with React.js that allows users to search for food recipes using the Edamam API.
+The application features a user-friendly interface where users can input ingredients or dish names and receive a list of relevant recipes.
 
 # Features:
 
